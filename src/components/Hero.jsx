@@ -14,7 +14,7 @@ const Hero = () => {
           React.js, Node.js) stack, which empowers me to build robust and
           dynamic web applications.
         </p>
-        <a className={styles.contactBtn} href="akkhileshrp2003@gmail.com">
+        <a className={styles.contactBtn} href="mailto:akkhileshrp2003@gmail.com">
           Contact
         </a>
       </div>

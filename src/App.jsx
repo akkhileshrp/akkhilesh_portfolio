@@ -4,7 +4,8 @@ import {
   Hero,
   About,
   CertificationsandSkills,
-  Projects
+  Projects,
+  Contact
 } from "./components/index";
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
       <About />
       <CertificationsandSkills />
       <Projects />
+      <Contact />
     </div>
   );
 };

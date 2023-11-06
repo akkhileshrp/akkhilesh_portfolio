@@ -48,7 +48,7 @@
     z-index: 3;
   }
   .menuBtn {
-    display: flex;
+    display: block;
     cursor: pointer;
   }
   .menuItems {
@@ -69,5 +69,11 @@
   .menuOpen {
     display: flex;
     z-index: 1;
+  }
+}
+
+@media screen and (min-width: 831px) {
+  .menuBtn {
+    display: none;
   }
 }
