@@ -4,6 +4,7 @@ import {
   Hero,
   About,
   CertificationsandSkills,
+  Projects
 } from "./components/index";
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
       <Hero />
       <About />
       <CertificationsandSkills />
+      <Projects />
     </div>
   );
 };

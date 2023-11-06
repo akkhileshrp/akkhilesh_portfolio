@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Product Classification",
+        "imageSrc": "projects/project.png",
+        "description": "Product Classification using YOLO v5 in Python for quality assessment.",
+        "skills": ["Python", "YOLOv5", "Makesense.ai", "PyTorch", "OpenCv"],
+        "source": "https://github.com/AKKHILESHRP/product-classification"
+    }
+]
