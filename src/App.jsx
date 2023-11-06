@@ -1,5 +1,10 @@
 import styles from "./App.module.css";
-import { Navbar, Hero, About } from "./components/index";
+import {
+  Navbar,
+  Hero,
+  About,
+  CertificationsandSkills,
+} from "./components/index";
 
 const App = () => {
   return (
@@ -7,6 +12,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <About />
+      <CertificationsandSkills />
     </div>
   );
 };
