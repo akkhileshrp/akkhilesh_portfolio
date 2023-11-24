@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Resume.module.css";
-import akkhileshResumePDF from "./components/data/akkhilesh_resume.pdf";
+import akkhileshResumePDF from ".//data/akkhilesh_resume.pdf";
 
 const Resume = () => {
   return (
