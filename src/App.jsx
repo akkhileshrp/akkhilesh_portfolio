@@ -5,7 +5,7 @@ import {
   About,
   CertificationsandSkills,
   Projects,
-  Contact
+  Contact,
 } from "./components/index";
 
 const App = () => {

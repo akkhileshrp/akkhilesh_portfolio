@@ -1,6 +1,7 @@
 import React from "react";
 import { getImageUrl } from "../utils";
 import styles from "./Hero.module.css";
+import Resume from "./Resume";
 
 const Hero = () => {
   return (
@@ -14,8 +15,15 @@ const Hero = () => {
           React.js, Node.js) stack, which empowers me to build robust and
           dynamic web applications.
         </p>
-        <a className={styles.contactBtn} href="mailto:akkhileshrp2003@gmail.com">
-          Contact
+        <a
+          className={styles.contactBtn}
+          href="mailto:akkhileshrp2003@gmail.com"
+        >
+          Contact |
+          <span>
+            {" "}
+            <Resume />
+          </span>
         </a>
       </div>
       <img
