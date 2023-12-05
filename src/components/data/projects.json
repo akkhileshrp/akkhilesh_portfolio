@@ -5,5 +5,12 @@
         "description": "Product Classification using YOLO v5 in Python for quality assessment.",
         "skills": ["Python", "YOLOv5", "Makesense.ai", "PyTorch", "OpenCv"],
         "source": "https://github.com/AKKHILESHRP/product-classification"
+    },
+    {
+        "title": "Crafted NodeJS API:CRUD",
+        "imageSrc": "projects/project.png",
+        "description": "Crafted Node.js API using GET, POST, PUT, DELETE operations.",
+        "skills": ["NodeJS", "FS", "HTTP"],
+        "source": "https://github.com/AKKHILESHRP/node_js_rest_api_akkhilesh"
     }
 ]
