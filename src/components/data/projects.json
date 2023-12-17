@@ -12,5 +12,12 @@
         "description": "Crafted Node.js API using GET, POST, PUT, DELETE operations.",
         "skills": ["NodeJS", "FS", "HTTP"],
         "source": "https://github.com/AKKHILESHRP/node_js_rest_api_akkhilesh"
+    },
+    {
+        "title": "Express JS Authentication",
+        "imageSrc": "projects/project.png",
+        "description": "Secure Express authentication with JWT, bcrypt, and MongoDB using Mongoose",
+        "skills": ["bcryptjs", "expressJS", "mongoose", "mongoDB", "JWT"],
+        "source": "https://github.com/AKKHILESHRP/express-auth"
     }
 ]
