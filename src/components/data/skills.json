@@ -12,7 +12,19 @@
         "imageSrc": "skills/javascript.png"
     },
     {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "Express JS",
+        "imageSrc": "skills/Express.png"
+    },
+    {
         "title": "React JS",
         "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Node JS",
+        "imageSrc": "skills/node.png"
     }
 ]
